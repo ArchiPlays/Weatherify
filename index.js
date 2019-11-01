@@ -1,5 +1,4 @@
 window.addEventListener('load', () => {
-   alert('Note: You can click F to change it to Celsius and the same back.')
    let long;
    let lat;
    const description = document.querySelector('.description');
